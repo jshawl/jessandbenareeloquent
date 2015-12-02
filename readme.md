@@ -1,5 +1,7 @@
 ## Values, Types, and Operators (12/1)
 
+- http://eloquentjavascript.net/01_values.html
+
 ## Program Structure (12/2)
 
 ## Functions (12/3)
